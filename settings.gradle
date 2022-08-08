@@ -2,3 +2,4 @@ rootProject.name = "renovate-gradle-test"
 
 include("dir1")
 include("dir2:dir2-1")
+include("dir2:dir2-2:dir2-2-1")
